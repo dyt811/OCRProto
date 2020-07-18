@@ -1,0 +1,25 @@
+Lens and Cataract
+
+Perioperative Cataract Surgery Management
+
+Yes
+
+D
+
+c
+
+This patient likely is experiencing TASS (Toxic Anterior Segment Syndrome). TASS is a sterile
+inflammatory reaction generally secondary to contaminants injected into the eye or incorrect
+pH of irrigating solutions.
+
+TASS commonly occurs when remnants of cleaning detergents are not properly washed out of
+reusable cannulas. In this question, the moxifloxacin was presumably injected with a reusable
+cannula. Contamination of the Vigamox can also occur with dilution as noted in the answer
+choice. Viscoelastics always come with a disposable cannula.
+
+TASS presents in the acute post-operative period (i.e. 12-24 hours), typically earlier than acute
+endophthalmitis (i.e. 2-7 days). Itis also generally confined to the anterior segment unlike
+endophthalmitis which always involves the posterior segment.
+
+Management of TASS includes: (1) excluding endophthalmitis as the cause of the inflammation;
+(2) intensive topical corticosteroids; and (3) controlling intraocular pressure if it is elevated.
